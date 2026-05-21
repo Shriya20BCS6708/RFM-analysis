@@ -51,3 +51,4 @@ The project helps businesses:
 ## Tableau Dashboard
 The Tableau dashboard visualizes:
 - Created a interactive dashboard that explains the number of customers segments per no of customers
+- file - RFM_analysis.twbx
